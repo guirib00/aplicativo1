@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 titulo:{
-	fontSize:30,
+	fontSize:25,
 	color:'#F00'
 },
 label:{
